@@ -1,0 +1,445 @@
+{
+  "paths": [
+    {
+      "_path": "Library/.BUILDINFO",
+      "path_type": "hardlink",
+      "sha256": "07d8304ed0c28efbdab1aefa7d20b08e753c2b8bb035c3d2027dcc867cfdc52c",
+      "size_in_bytes": 7038
+    },
+    {
+      "_path": "Library/.MTREE",
+      "path_type": "hardlink",
+      "sha256": "60c1438310ed5da7ba0032ffedd05bbb05ac0c113c1376e1fd5b896df90eace9",
+      "size_in_bytes": 5341
+    },
+    {
+      "_path": "Library/.PKGINFO",
+      "path_type": "hardlink",
+      "sha256": "cd9a36e4dbd200d07a128f5fc69726bfd9060f238ca273ca890617b11203262d",
+      "size_in_bytes": 525
+    },
+    {
+      "_path": "Library/build_env_setup.bat",
+      "file_mode": "text",
+      "path_type": "hardlink",
+      "prefix_placeholder": "C:\\Users\\Roger\\.conda\\envs\\mingw\\conda-bld\\mingw-w64-gtest_1680256546150\\_h_env",
+      "sha256": "47e5c3cf7f1fe5d2624a4433e65fedee0a846f8a173a504211a6b176641d2535",
+      "size_in_bytes": 6984
+    },
+    {
+      "_path": "Library/conda_build.bat",
+      "path_type": "hardlink",
+      "sha256": "ad7e355ab1063b36433ab2e4e9c8e4855110597151ea0075e828f2a9b5f0a9a6",
+      "size_in_bytes": 233
+    },
+    {
+      "_path": "Library/metadata_conda_debug.yaml",
+      "path_type": "hardlink",
+      "sha256": "e4de323d47beb5989c17c97a1b29cc348a985a218854e8fac7fcaf07e2d4dc65",
+      "size_in_bytes": 428
+    },
+    {
+      "_path": "Library/mingw64/bin/libgmock.dll",
+      "path_type": "hardlink",
+      "sha256": "93841116ba032cd626801420047f7c94868f89930733c7ed2757c230495debd8",
+      "size_in_bytes": 101517
+    },
+    {
+      "_path": "Library/mingw64/bin/libgmock_main.dll",
+      "path_type": "hardlink",
+      "sha256": "e8c224386b8515dd40ad1b2c0a3c10ceff8989e15011438afeffcd068dcf591e",
+      "size_in_bytes": 15534
+    },
+    {
+      "_path": "Library/mingw64/bin/libgtest.dll",
+      "path_type": "hardlink",
+      "sha256": "8ef0eff30303c066f8f908fb7651d121b77ebe6b8bd1e7307407a90ac087aa2b",
+      "size_in_bytes": 463099
+    },
+    {
+      "_path": "Library/mingw64/bin/libgtest_main.dll",
+      "path_type": "hardlink",
+      "sha256": "c3048bdcd750e97e0df778d3c4513ac94e46273e5e0dd271ead984ced3dd6463",
+      "size_in_bytes": 40830
+    },
+    {
+      "_path": "Library/mingw64/include/gmock/gmock-actions.h",
+      "path_type": "hardlink",
+      "sha256": "7117ec90f2b41190e338d3160ffa3c142eed46d232ac6e9ec04bda2297217b82",
+      "size_in_bytes": 87851
+    },
+    {
+      "_path": "Library/mingw64/include/gmock/gmock-cardinalities.h",
+      "path_type": "hardlink",
+      "sha256": "8e7a4d98a7161600c05029b2a8a96318e221a565c72ad3516cc237b5565a46f7",
+      "size_in_bytes": 6102
+    },
+    {
+      "_path": "Library/mingw64/include/gmock/gmock-function-mocker.h",
+      "path_type": "hardlink",
+      "sha256": "c051163b7411527a6870d2536aea1682f90bb3bb1b18c04f1c426b2fdd9bb1f7",
+      "size_in_bytes": 25675
+    },
+    {
+      "_path": "Library/mingw64/include/gmock/gmock-matchers.h",
+      "path_type": "hardlink",
+      "sha256": "79bea4e2f350a69ab3538a1d1f0c433dfe0688c5a292b72e70f9fe6ea122ed5a",
+      "size_in_bytes": 210069
+    },
+    {
+      "_path": "Library/mingw64/include/gmock/gmock-more-actions.h",
+      "path_type": "hardlink",
+      "sha256": "b0ef2f5fb9013b215dcd01393369a93cc7e2f44d2a5bfde043284b36bb43579f",
+      "size_in_bytes": 38299
+    },
+    {
+      "_path": "Library/mingw64/include/gmock/gmock-more-matchers.h",
+      "path_type": "hardlink",
+      "sha256": "008a2954342224b9b4305a4431dbf4a6a7810a5eed295193bfdfddfc0691aee2",
+      "size_in_bytes": 4416
+    },
+    {
+      "_path": "Library/mingw64/include/gmock/gmock-nice-strict.h",
+      "path_type": "hardlink",
+      "sha256": "baa275075b4e40096a5df760df5451ff23fa26e669111b8c44549782aee53fe9",
+      "size_in_bytes": 10840
+    },
+    {
+      "_path": "Library/mingw64/include/gmock/gmock-spec-builders.h",
+      "path_type": "hardlink",
+      "sha256": "724665afac352c560eb61a9d0bbd50811d758d301bad131ea9f32da74235c173",
+      "size_in_bytes": 80896
+    },
+    {
+      "_path": "Library/mingw64/include/gmock/gmock.h",
+      "path_type": "hardlink",
+      "sha256": "a4cce830e85ce888f41b098e1b32fda744b21adc97f7abb1eea2e072a261fbdf",
+      "size_in_bytes": 3723
+    },
+    {
+      "_path": "Library/mingw64/include/gmock/internal/custom/README.md",
+      "path_type": "hardlink",
+      "sha256": "1ecdc0c1b9a6b4ce7a9411dfb50c3b8aced2aa03d42e67ee0377a7a201d5ff64",
+      "size_in_bytes": 510
+    },
+    {
+      "_path": "Library/mingw64/include/gmock/internal/custom/gmock-generated-actions.h",
+      "path_type": "hardlink",
+      "sha256": "8efd16064b3e19d98726a15f8bc40daa593576e4a190b2e8b95a6fee7242c36f",
+      "size_in_bytes": 314
+    },
+    {
+      "_path": "Library/mingw64/include/gmock/internal/custom/gmock-matchers.h",
+      "path_type": "hardlink",
+      "sha256": "b6d245e95f0649a85aa7e29457f437da4c2f1fbadb0402cfc40f680159de510f",
+      "size_in_bytes": 1918
+    },
+    {
+      "_path": "Library/mingw64/include/gmock/internal/custom/gmock-port.h",
+      "path_type": "hardlink",
+      "sha256": "ee2cc87202e75759cfd98a5d657c69ee864e492a2c63584586938da81ab84995",
+      "size_in_bytes": 1953
+    },
+    {
+      "_path": "Library/mingw64/include/gmock/internal/gmock-internal-utils.h",
+      "path_type": "hardlink",
+      "sha256": "282ed756de94fb611c975389ac45b1b3344e9d54e9240be4d264801fde252d9d",
+      "size_in_bytes": 19325
+    },
+    {
+      "_path": "Library/mingw64/include/gmock/internal/gmock-port.h",
+      "path_type": "hardlink",
+      "sha256": "959d54ecc1162a707557ede93a937231d644b1334c5a1feab0d6affa90963460",
+      "size_in_bytes": 6064
+    },
+    {
+      "_path": "Library/mingw64/include/gmock/internal/gmock-pp.h",
+      "path_type": "hardlink",
+      "sha256": "5fcdad1707b172f8000d9f419f41d44318558600b00916785516eae49843bb4f",
+      "size_in_bytes": 13491
+    },
+    {
+      "_path": "Library/mingw64/include/gtest/gtest-assertion-result.h",
+      "path_type": "hardlink",
+      "sha256": "9e5c5e6d3ff7d2325c434e4ae2622cea4f9aedba0c6dc3fca266cbf56d69f64e",
+      "size_in_bytes": 8502
+    },
+    {
+      "_path": "Library/mingw64/include/gtest/gtest-death-test.h",
+      "path_type": "hardlink",
+      "sha256": "ab4c290687921aa08a9eec43a939e6b936e180da5368aed9632c016d4d8bf421",
+      "size_in_bytes": 14886
+    },
+    {
+      "_path": "Library/mingw64/include/gtest/gtest-matchers.h",
+      "path_type": "hardlink",
+      "sha256": "c7086d0eaf3bd8d7d23c56466203aa88f14cf4375624d570620e50abea2bcbdb",
+      "size_in_bytes": 33614
+    },
+    {
+      "_path": "Library/mingw64/include/gtest/gtest-message.h",
+      "path_type": "hardlink",
+      "sha256": "a417441071dc0ca0158a3b07b30299ed69b22b883e62e042c046f42382a51e9c",
+      "size_in_bytes": 8146
+    },
+    {
+      "_path": "Library/mingw64/include/gtest/gtest-param-test.h",
+      "path_type": "hardlink",
+      "sha256": "e2b3b7e13fb2b42817f6da51eafc5cd83879d0d250ea81001943388e05168739",
+      "size_in_bytes": 23927
+    },
+    {
+      "_path": "Library/mingw64/include/gtest/gtest-printers.h",
+      "path_type": "hardlink",
+      "sha256": "af1a368cc80869373d2fe741a6876506864d8dfb31e648fed5ef87a7b3677350",
+      "size_in_bytes": 39548
+    },
+    {
+      "_path": "Library/mingw64/include/gtest/gtest-spi.h",
+      "path_type": "hardlink",
+      "sha256": "fc0bbebaeb211b81a2ec3df388e5e5f25a7c22e90186839854d2e5b26ce226e6",
+      "size_in_bytes": 12843
+    },
+    {
+      "_path": "Library/mingw64/include/gtest/gtest-test-part.h",
+      "path_type": "hardlink",
+      "sha256": "16dbdeaf64967f74205d5cc5c246ec4eb35e262eb2879ac1a118434208ec73fe",
+      "size_in_bytes": 7148
+    },
+    {
+      "_path": "Library/mingw64/include/gtest/gtest-typed-test.h",
+      "path_type": "hardlink",
+      "sha256": "e4607bf400b336cc1eb3a466826d1d9ba8af59f11ab2e737cc6f063e3659b52d",
+      "size_in_bytes": 15921
+    },
+    {
+      "_path": "Library/mingw64/include/gtest/gtest.h",
+      "path_type": "hardlink",
+      "sha256": "ca270bafac253313b0dcd3ae3a45db766aab98a1534513e3f3d76ece458b81d0",
+      "size_in_bytes": 90463
+    },
+    {
+      "_path": "Library/mingw64/include/gtest/gtest_pred_impl.h",
+      "path_type": "hardlink",
+      "sha256": "85e850e735a42ebb5f9a01a018708c1c0b9b7d83c94b14b7d5d29512c00b6ffd",
+      "size_in_bytes": 12783
+    },
+    {
+      "_path": "Library/mingw64/include/gtest/gtest_prod.h",
+      "path_type": "hardlink",
+      "sha256": "3c6301ef533db8686e474dd5a0de4d98a31cbb630e2273f712472d1be25aa261",
+      "size_in_bytes": 2502
+    },
+    {
+      "_path": "Library/mingw64/include/gtest/internal/custom/README.md",
+      "path_type": "hardlink",
+      "sha256": "608ec5ac574a6e64e4fc2f4bce2cfc7ff753a04d6822d6ff96e43fff51c6ccc1",
+      "size_in_bytes": 1269
+    },
+    {
+      "_path": "Library/mingw64/include/gtest/internal/custom/gtest-port.h",
+      "path_type": "hardlink",
+      "sha256": "5e06747c9e8b86e9d841fabd61c2f045b2bb1133716f127be4a963ced1c44e01",
+      "size_in_bytes": 1873
+    },
+    {
+      "_path": "Library/mingw64/include/gtest/internal/custom/gtest-printers.h",
+      "path_type": "hardlink",
+      "sha256": "b95afda2426e8c4f09c11d3296d522fb336b248c0da7e078388db4bb072c2166",
+      "size_in_bytes": 2094
+    },
+    {
+      "_path": "Library/mingw64/include/gtest/internal/custom/gtest.h",
+      "path_type": "hardlink",
+      "sha256": "21d20a1c64ea38c20c4b12337c261a1a18989d2a30710a83dfb5cd9a3bb3c55e",
+      "size_in_bytes": 1858
+    },
+    {
+      "_path": "Library/mingw64/include/gtest/internal/gtest-death-test-internal.h",
+      "path_type": "hardlink",
+      "sha256": "d6a395fb1f0a1fa2f7099fd895ab684955ba515d023fa1799d3048712421e17c",
+      "size_in_bytes": 13910
+    },
+    {
+      "_path": "Library/mingw64/include/gtest/internal/gtest-filepath.h",
+      "path_type": "hardlink",
+      "sha256": "544ce95d2e1e4b7ae17ee170f482aaa09e17d0056999c4ce7e7a6097c3a755cf",
+      "size_in_bytes": 10339
+    },
+    {
+      "_path": "Library/mingw64/include/gtest/internal/gtest-internal.h",
+      "path_type": "hardlink",
+      "sha256": "5ad83a9f48b61a011adaf8bb135a3f60209177c28b3b9294b9c576d191ca03c3",
+      "size_in_bytes": 63772
+    },
+    {
+      "_path": "Library/mingw64/include/gtest/internal/gtest-param-util.h",
+      "path_type": "hardlink",
+      "sha256": "66db7a8880ff97ddf7bdb08c74788b4c654f0c6a7fbeefd83eab06f52be0bdd1",
+      "size_in_bytes": 38106
+    },
+    {
+      "_path": "Library/mingw64/include/gtest/internal/gtest-port-arch.h",
+      "path_type": "hardlink",
+      "sha256": "fbb76e38297555877b35b1db28094c52487b87e511d344b53f2b1016b2335de3",
+      "size_in_bytes": 4178
+    },
+    {
+      "_path": "Library/mingw64/include/gtest/internal/gtest-port.h",
+      "path_type": "hardlink",
+      "sha256": "198947db724d326600ee497f9a18be746efcad22ec72e91a28f35daa631a1b5a",
+      "size_in_bytes": 89145
+    },
+    {
+      "_path": "Library/mingw64/include/gtest/internal/gtest-string.h",
+      "path_type": "hardlink",
+      "sha256": "40cd1162db218bab9934ec55ba791c50b1f1d22b2b29ae56c303751afcdc6054",
+      "size_in_bytes": 7320
+    },
+    {
+      "_path": "Library/mingw64/include/gtest/internal/gtest-type-util.h",
+      "path_type": "hardlink",
+      "sha256": "2d55695a6b43cd37fc9b367e2f5adfff6c90e07b32f60a6bbfa42eba73a37748",
+      "size_in_bytes": 6309
+    },
+    {
+      "_path": "Library/mingw64/lib/cmake/GTest/GTestConfig.cmake",
+      "path_type": "hardlink",
+      "sha256": "eee8cdb1b14cbe159f3a18cec91d944c185e1713c4110a16130b8cc720c07c31",
+      "size_in_bytes": 1104
+    },
+    {
+      "_path": "Library/mingw64/lib/cmake/GTest/GTestConfigVersion.cmake",
+      "path_type": "hardlink",
+      "sha256": "4d4ff81449f073e7acfe817676d3a4f25267892c32f50838a06a89809d63263e",
+      "size_in_bytes": 2026
+    },
+    {
+      "_path": "Library/mingw64/lib/cmake/GTest/GTestTargets-release.cmake",
+      "path_type": "hardlink",
+      "sha256": "9b6e095dbe78c2c787039f336519029359e1d813e9f5ba4e9a541c54bf312f8d",
+      "size_in_bytes": 2561
+    },
+    {
+      "_path": "Library/mingw64/lib/cmake/GTest/GTestTargets.cmake",
+      "path_type": "hardlink",
+      "sha256": "ee02a31e8281c55489fd7f72ab711ddb6106053e8cddf7157b67e27193067cdf",
+      "size_in_bytes": 5643
+    },
+    {
+      "_path": "Library/mingw64/lib/libgmock.a",
+      "path_type": "hardlink",
+      "sha256": "d0d18ee1058d0f8cfc93eea359acf5a7b50fec550565b7c528f8a631f08de904",
+      "size_in_bytes": 158720
+    },
+    {
+      "_path": "Library/mingw64/lib/libgmock.dll.a",
+      "path_type": "hardlink",
+      "sha256": "820b796d4954f9ace60262b56106ad6bf3b2a629dd19f5387ddcc95987f9a1a5",
+      "size_in_bytes": 142176
+    },
+    {
+      "_path": "Library/mingw64/lib/libgmock_main.a",
+      "path_type": "hardlink",
+      "sha256": "242ce7404ed895e6f058b27ea94a7bf97255ea4edb1ef214fbf1d1f2d9752ef3",
+      "size_in_bytes": 2440
+    },
+    {
+      "_path": "Library/mingw64/lib/libgmock_main.dll.a",
+      "path_type": "hardlink",
+      "sha256": "5976370ea2ae1054897091e6e8cdad430efa1395d0f11fa75e314f92b315e638",
+      "size_in_bytes": 1568
+    },
+    {
+      "_path": "Library/mingw64/lib/libgtest.a",
+      "path_type": "hardlink",
+      "sha256": "e99ae3ac68f15734dbe5239a0131c233a898f202e8397f28993e24be9b2e2862",
+      "size_in_bytes": 802884
+    },
+    {
+      "_path": "Library/mingw64/lib/libgtest.dll.a",
+      "path_type": "hardlink",
+      "sha256": "5bd848e02ca05c8012dfeebe11c24dff7c22bf318dc32d90a2dc9afc1f9f5a58",
+      "size_in_bytes": 778528
+    },
+    {
+      "_path": "Library/mingw64/lib/libgtest_main.a",
+      "path_type": "hardlink",
+      "sha256": "8f84b41b3418da5261ffd558dd991ce29ae85dbaf0c84f1649ee43c162a216de",
+      "size_in_bytes": 2786
+    },
+    {
+      "_path": "Library/mingw64/lib/libgtest_main.dll.a",
+      "path_type": "hardlink",
+      "sha256": "abf98048be09bafbc58361fdcc3847b48d56ea711425338c80f278d89f894b97",
+      "size_in_bytes": 2208
+    },
+    {
+      "_path": "Library/mingw64/lib/pkgconfig/gmock.pc",
+      "path_type": "hardlink",
+      "sha256": "bad9ee43eab3a04be6dd44a873856dc7312e01688dc74c08714b045ce57a6169",
+      "size_in_bytes": 296
+    },
+    {
+      "_path": "Library/mingw64/lib/pkgconfig/gmock_main.pc",
+      "path_type": "hardlink",
+      "sha256": "9178122784d7d373a4523cae95ee97f7cc59fc610fee23753541275a9eb9f4dc",
+      "size_in_bytes": 303
+    },
+    {
+      "_path": "Library/mingw64/lib/pkgconfig/gtest.pc",
+      "path_type": "hardlink",
+      "sha256": "8c14c93ff38cc06c3caefd40db3c43bf06c685eb2ddc191b2b48e76f33c59f78",
+      "size_in_bytes": 270
+    },
+    {
+      "_path": "Library/mingw64/lib/pkgconfig/gtest_main.pc",
+      "path_type": "hardlink",
+      "sha256": "75d77dddd9f487c25f1b502a6b16680f03b8df975e82c8e3aaaa7f2c41555e6b",
+      "size_in_bytes": 303
+    },
+    {
+      "_path": "Library/mingw64/share/licenses/gmock/LICENSE",
+      "path_type": "hardlink",
+      "sha256": "9702de7e4117a8e2b20dafab11ffda58c198aede066406496bef670d40a22138",
+      "size_in_bytes": 1475
+    },
+    {
+      "_path": "Library/mingw64/share/licenses/gtest/LICENSE",
+      "path_type": "hardlink",
+      "sha256": "9702de7e4117a8e2b20dafab11ffda58c198aede066406496bef670d40a22138",
+      "size_in_bytes": 1475
+    },
+    {
+      "_path": "Library/mingw64/src/gtest/cmake/Config.cmake.in",
+      "path_type": "hardlink",
+      "sha256": "fe78381daf2fc2538fb4067880e6150957011f6fb90de5472c4b5bd79a51a7a0",
+      "size_in_bytes": 284
+    },
+    {
+      "_path": "Library/mingw64/src/gtest/cmake/gtest.pc.in",
+      "path_type": "hardlink",
+      "sha256": "54cd8b6b9186844c2950e8bfd902add5e6b4a4982d5dec0a69d4e0009a8a4a91",
+      "size_in_bytes": 351
+    },
+    {
+      "_path": "Library/mingw64/src/gtest/cmake/gtest_main.pc.in",
+      "path_type": "hardlink",
+      "sha256": "76ba20c01544d60d85cd702ac47e5fee41c5e3d1f1b6505840db6b7989c92bec",
+      "size_in_bytes": 394
+    },
+    {
+      "_path": "Library/mingw64/src/gtest/cmake/internal_utils.cmake",
+      "path_type": "hardlink",
+      "sha256": "161b880e14c031050095dcc7405c335a5ac3bfee700183f9745cd6aa340af20b",
+      "size_in_bytes": 15031
+    },
+    {
+      "_path": "Library/mingw64/src/gtest/cmake/libgtest.la.in",
+      "path_type": "hardlink",
+      "sha256": "c0c8c340bd113c0d2284c63c5b9243112bcfa2bc512af17fa1ae496b2999df27",
+      "size_in_bytes": 499
+    }
+  ],
+  "paths_version": 1
+}

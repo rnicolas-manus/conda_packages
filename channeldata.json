@@ -1,0 +1,69 @@
+{
+  "channeldata_version": 1,
+  "packages": {
+    "mingw-w64": {
+      "activate.d": false,
+      "binary_prefix": false,
+      "deactivate.d": false,
+      "description": null,
+      "dev_url": null,
+      "doc_source_url": null,
+      "doc_url": null,
+      "home": "https://www.mingw-w64.org/",
+      "icon_hash": null,
+      "icon_url": null,
+      "identifiers": null,
+      "keywords": null,
+      "license": "GPL",
+      "post_link": false,
+      "pre_link": false,
+      "pre_unlink": false,
+      "recipe_origin": null,
+      "run_exports": {},
+      "source_git_url": null,
+      "source_url": "https://github.com/niXman/mingw-builds-binaries/releases/download/12.2.0-rt_v10-rev2/x86_64-12.2.0-release-posix-seh-ucrt-rt_v10-rev2.7z",
+      "subdirs": [
+        "win-64"
+      ],
+      "summary": "MinGW compiler for Windows",
+      "tags": null,
+      "text_prefix": true,
+      "timestamp": 1680620151,
+      "version": "10.0.0"
+    },
+    "mingw-w64-gtest": {
+      "activate.d": false,
+      "binary_prefix": false,
+      "deactivate.d": false,
+      "description": null,
+      "dev_url": null,
+      "doc_source_url": null,
+      "doc_url": null,
+      "home": "https://www.mingw-w64.org/",
+      "icon_hash": null,
+      "icon_url": null,
+      "identifiers": null,
+      "keywords": null,
+      "license": "BSD-3",
+      "post_link": false,
+      "pre_link": false,
+      "pre_unlink": false,
+      "recipe_origin": null,
+      "run_exports": {},
+      "source_git_url": null,
+      "source_url": "https://mirror.msys2.org/mingw/mingw64/mingw-w64-x86_64-gtest-1.13.0-1-any.pkg.tar.zst",
+      "subdirs": [
+        "win-64"
+      ],
+      "summary": "GTest package for MinGW compiler",
+      "tags": null,
+      "text_prefix": true,
+      "timestamp": 1680256568,
+      "version": "1.13.0"
+    }
+  },
+  "subdirs": [
+    "noarch",
+    "win-64"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "info": {
+    "subdir": "win-64"
+  },
+  "packages": {
+    "mingw-w64-gtest-1.13.0-0.tar.bz2": {
+      "build": "0",
+      "build_number": 0,
+      "depends": [],
+      "license": "BSD-3",
+      "md5": "ca5862307df2dc46de708e6eda6e7c72",
+      "name": "mingw-w64-gtest",
+      "sha256": "df7d86f043b1c5f6d818ef55f988d223b7850b02421a381dc0296735d4c71949",
+      "size": 702228,
+      "subdir": "win-64",
+      "timestamp": 1680256568784,
+      "version": "1.13.0"
+    }
+  },
+  "packages.conda": {},
+  "removed": [],
+  "repodata_version": 1
+}
